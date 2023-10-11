@@ -33,7 +33,6 @@ This project was designed to learn and practice building web applications using 
 - Implementing pagination and filters
 - Managing speakers and their social media profiles in the backend and frontend
 - Integrating speakers, events, and other features in the year 2022
-- Dockerizing the application and using MySQL in 2022
 
 ## Prerequisites
 
