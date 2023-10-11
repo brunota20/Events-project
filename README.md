@@ -15,7 +15,7 @@ This repository contains a web application for managing events using .NET Core 5
 
 ## Introduction
 
-This project is designed to help developers learn and practice building web applications using the following technologies and concepts:
+This project was designed to learn and practice building web applications using the following technologies and concepts:
 
 - .NET Core 5
 - Entity Framework Core 5
@@ -95,7 +95,6 @@ Here are some of the key features of the Events Project:
 - Speaker profiles with social media links.
 - Pagination and filtering of events.
 - Image uploads for events and speakers.
-- Dockerized deployment with MySQL.
 
 # Technologies Used
 
